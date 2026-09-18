@@ -19,7 +19,7 @@ page in this guide.
 | 12 | [Pharmacy > Medicines](../pharmacy/stock.md#medicines) | the medicines kept, added from the [catalogue](../pharmacy/stock.md#medicine-catalogue), and the opening stock of each batch |
 | 13 | [Finance > Packages and Schemes](../finance/insurance.md#packages-and-schemes), [Referrers](../finance/shares.md#referrers), [Share Rules](../finance/shares.md#share-rules) | only if the hospital uses them |
 | 14 | [Finance > Ledger Settings](../finance/gst-accounts.md#ledger-settings) | the accountant's ledgers, if the accounts are exported to Tally or Zoho Books |
-| 15 | [Administration > Message Templates](../administration/settings.md#message-templates) | the words of the WhatsApp messages |
+| 15 | [Masters > Message Templates](../masters/messages.md) | the words of the WhatsApp messages |
 | 16 | [Clinical > Form Templates](../clinical/forms.md#form-templates) | the hospital's own consent forms and letters, if they differ |
 
 !!! tip "Test before you start"

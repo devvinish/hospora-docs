@@ -7,7 +7,8 @@ The **Masters** menu holds the lists the rest of the application uses:
 - wards, and the items of the I.P. bill;
 - the medicine lists and suppliers;
 - the report formats of the laboratory and radiology;
-- diagnosis codes, operation theatres and vaccines.
+- diagnosis codes, operation theatres and vaccines;
+- the words of the WhatsApp messages.
 
 They are set up once and changed only now and then, usually by an administrator.
 
@@ -19,6 +20,7 @@ They are set up once and changed only now and then, usually by an administrator.
 | [Pharmacy Lists](pharmacy.md) | Medicine Companies, Medicine Contents, Medicine Types, Suppliers (Pharmacy) |
 | [Report Formats](formats.md) | Pathology Test Formats, X-Ray, Ultrasound, MRI and CT-Scan Report Formats |
 | [Clinical Lists](clinical.md) | Diagnosis Codes (I.C.D.-10), Operation Theatres, Vaccines |
+| [Message Templates](messages.md) | The words of the WhatsApp messages |
 
 ## How every master works
 

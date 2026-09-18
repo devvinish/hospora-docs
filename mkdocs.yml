@@ -119,12 +119,14 @@ nav:
       - Money: reports/finance.md
       - Pharmacy: reports/pharmacy.md
       - Clinical: reports/clinical.md
+      - Messages Sent: reports/messages.md
   - Masters:
       - masters/index.md
       - Hospital and Tariff: masters/tariff.md
       - Pharmacy Lists: masters/pharmacy.md
       - Report Formats: masters/formats.md
       - Clinical Lists: masters/clinical.md
+      - Message Templates: masters/messages.md
   - Administration:
       - administration/index.md
       - Users and Roles: administration/users.md

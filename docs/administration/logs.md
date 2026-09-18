@@ -1,12 +1,5 @@
 # Logs
 
-## Messages Sent
-
-**Administration > Messages Sent** lists every WhatsApp message opened from Hospora ERP: when, to whom,
-for which document, the words, and who sent it.
-
-![The WhatsApp messages sent](../assets/screens/masters/messages-sent.png)
-
 ## Error Log
 
 **Administration > Error Log** lists the errors the application met, with the page and the user. When

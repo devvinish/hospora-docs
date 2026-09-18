@@ -1,7 +1,7 @@
 # Reports
 
 The **Reports** menu holds the registers and summaries of the hospital: 34 reports on registrations,
-admissions, money, the pharmacy and clinical work.
+admissions, money, the pharmacy and clinical work, and the log of WhatsApp messages sent.
 
 ![The Reports menu](../assets/screens/reports/menu.png)
 
@@ -11,6 +11,7 @@ admissions, money, the pharmacy and clinical work.
 | [Money](finance.md) | Cash Bills Register, Cash Collection by Head, Credit Bills, Credit Statement (I.P.), Advance Receipts, Refunds / Expenses, Miscellaneous Bills, Cash Summary, I.P. Final Bills Register, Payments Received Register, Discounted Bills, G.S.T. Collected |
 | [Pharmacy](pharmacy.md) | Medicine Sales, Medicine Returns Register, Purchase Orders Register, Purchase Entries Register, Stock Movements |
 | [Clinical](clinical.md) | Appointments Register, Doctor Utilisation, Consultations and Diagnoses, Operation Register, Casualty Register, M.L.C. Register, Blood Bank Register, Immunisation Due, Birth Register, Death Register, A.N.C. Register |
+| [Messages Sent](messages.md) | Every WhatsApp message opened from Hospora ERP |
 
 ## How every report works
 

@@ -57,7 +57,7 @@
 ??? question "Does the hospital need a WhatsApp Business account?"
     No. The **WhatsApp** button opens WhatsApp on the computer or phone you are using, with the patient's
     number and the message typed in; you press Send. There is no charge. The words are in
-    [Message Templates](administration/settings.md#message-templates).
+    [Message Templates](masters/messages.md).
 
 ??? question "How do I send the report or bill itself as a PDF?"
     In the print window, **Share** sends the PDF from a phone or tablet. On a computer, **Print** and choose
