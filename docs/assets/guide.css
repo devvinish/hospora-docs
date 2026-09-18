@@ -51,3 +51,19 @@
 .md-nav--primary .md-nav--secondary .md-nav__link--active {
   color: var(--md-accent-fg-color);
 }
+
+/* the sections of every page, listed under it in the left menu (nav-sections.js); no right sidebar */
+.md-sidebar--secondary {
+  display: none !important;
+}
+.guide-sections .md-nav__list {
+  padding-left: .6rem;
+}
+.guide-sections .md-nav__link {
+  margin-top: .35em;
+  color: var(--md-default-fg-color--light);
+  font-size: .95em;
+}
+.guide-sections .md-nav__link:hover {
+  color: var(--md-accent-fg-color);
+}

@@ -36,11 +36,16 @@ theme:
     - search.suggest
     - search.highlight
     - toc.follow
-    - toc.integrate
     - content.action.edit
 
 extra_css:
   - assets/guide.css
+
+extra_javascript:
+  - assets/nav-sections.js
+
+hooks:
+  - hooks.py
 
 plugins:
   - search
