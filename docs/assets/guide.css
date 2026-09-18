@@ -91,3 +91,18 @@
     display: none;
   }
 }
+
+/* the chapters bar under the header: like the menu bar of Hospora ERP */
+.md-tabs {
+  background-color: #2e3d4d;
+}
+.md-tabs__link {
+  margin-top: .55rem;
+  font-size: .72rem;
+  opacity: .85;
+}
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__link:hover {
+  opacity: 1;
+  font-weight: 700;
+}
