@@ -25,3 +25,12 @@
 .md-typeset table:not([class]) td:first-child {
   white-space: nowrap;
 }
+
+/* the page's sections sit in the left menu (toc.integrate): the content takes the rest of a wide screen */
+.md-grid {
+  max-width: 1600px;
+}
+.md-typeset img {
+  max-width: 100%;
+  height: auto;
+}
