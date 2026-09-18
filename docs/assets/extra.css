@@ -1,0 +1,27 @@
+/* screenshots: a thin frame so the white pages stand out */
+.md-typeset img {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .08);
+}
+
+/* the orange numbers of the screenshots, repeated in the text */
+.md-typeset .n {
+  display: inline-block;
+  min-width: 1.35em;
+  height: 1.35em;
+  padding: 0 .2em;
+  border-radius: .7em;
+  background: #f28c28;
+  color: #fff;
+  font-size: .8em;
+  font-weight: 700;
+  line-height: 1.35em;
+  text-align: center;
+  vertical-align: .1em;
+}
+
+/* the option tables of a chapter */
+.md-typeset table:not([class]) td:first-child {
+  white-space: nowrap;
+}

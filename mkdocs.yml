@@ -1,0 +1,89 @@
+site_name: Hospora ERP - User Guide
+site_description: Step-by-step guide to Hospora ERP, a hospital management system built on Oracle APEX.
+site_url: https://devvinish.github.io/hospora-docs/
+repo_url: https://github.com/devvinish/hospora-docs
+repo_name: hospora-docs
+edit_uri: edit/main/docs/
+copyright: Hospora ERP - Hospital Management System. Every name, number and record in the pictures is invented.
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/hospital-box-outline
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.action.edit
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search
+  - glightbox:
+      zoomable: true
+      draggable: false
+      skip_classes:
+        - no-zoom
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - getting-started/index.md
+  - Registration:
+      - registration/index.md
+      - Find Patient: registration/find-patient.md
+      - New O.P. Registration: registration/op-registration.md
+      - Renew Registration: registration/renewal.md
+      - I.P. Admission: registration/admission.md
+      - Bed Board and Ward Transfers: registration/beds.md
+      - Patient History: registration/patient-history.md
+      - Prescriptions: registration/prescriptions.md
+      - Certificates: registration/certificates.md
+  - Appointments: appointments/index.md
+  - Clinical: clinical/index.md
+  - Finance: finance/index.md
+  - Investigation: investigation/index.md
+  - Pharmacy: pharmacy/index.md
+  - Reports: reports/index.md
+  - Masters: masters/index.md
+  - Administration: administration/index.md
+  - Workflows: workflows/index.md
+  - FAQ: faq.md
