@@ -29,6 +29,7 @@ theme:
         name: Light mode
   features:
     - navigation.indexes
+    - navigation.expand
     - navigation.top
     - navigation.footer
     - navigation.instant

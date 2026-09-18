@@ -34,3 +34,20 @@
   max-width: 100%;
   height: auto;
 }
+
+/* the sections of the open page look like the entries of the menu: no line beside them, one step in */
+.md-nav--integrated > .md-nav__list > .md-nav__item--active .md-nav--secondary,
+.md-nav--primary .md-nav--secondary {
+  border-left: 0;
+  margin-left: 0;
+}
+.md-nav--primary .md-nav--secondary .md-nav__list {
+  padding-left: .6rem;
+}
+.md-nav--primary .md-nav--secondary .md-nav__link {
+  color: var(--md-default-fg-color--light);
+}
+.md-nav--primary .md-nav--secondary .md-nav__link:hover,
+.md-nav--primary .md-nav--secondary .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+}
