@@ -67,3 +67,10 @@
 .guide-sections .md-nav__link:hover {
   color: var(--md-accent-fg-color);
 }
+/* always shown, under the open page as well (the theme hides lists there on wide screens) */
+.md-nav--primary .guide-sections {
+  display: block !important;
+}
+.md-nav--primary .md-nav__item--active > .md-nav--secondary {
+  display: none;
+}

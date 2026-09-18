@@ -28,7 +28,8 @@
 
   function fill(map) {
     document.querySelectorAll('.md-nav--primary a.md-nav__link[href]').forEach(function (a) {
-      if (a.closest('.guide-sections')) {
+      // not the sections of this menu, nor the theme's own (hidden) list of the open page
+      if (a.closest('.guide-sections') || a.closest('.md-nav--secondary')) {
         return;
       }
       var li = a.closest('li');
