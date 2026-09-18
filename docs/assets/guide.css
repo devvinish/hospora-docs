@@ -78,3 +78,16 @@
 .md-nav--primary .md-nav__item--active > .md-nav--secondary {
   display: none;
 }
+
+/* on a wide screen the whole menu stays open: no arrows to fold a chapter away */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__icon {
+    display: none;
+  }
+  .md-nav--primary label.md-nav__link {
+    pointer-events: none;
+  }
+  .md-nav--primary .md-nav__container > .md-nav__link:not(:first-child) {
+    display: none;
+  }
+}
