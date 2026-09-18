@@ -120,6 +120,11 @@ nav:
       - Pharmacy: reports/pharmacy.md
       - Clinical: reports/clinical.md
       - Messages Sent: reports/messages.md
+  - Management:
+      - management/index.md
+      - Management Dashboard: management/dashboard.md
+      - Analyses: management/analyses.md
+      - Report Schedules: management/schedules.md
   - Masters:
       - masters/index.md
       - Hospital and Tariff: masters/tariff.md

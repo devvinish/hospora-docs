@@ -36,7 +36,7 @@ user is locked. Ask the administrator to unlock it.
     Next to it: today's date, your **role**, your **cash counter**, **Help** (opens this guide in a new
     tab) and your user menu.
 3. <span class="n">3</span> **The menu bar**: Registration, Appointments, Clinical, Finance, Investigation,
-   Pharmacy, Reports, Masters, Administration. You see only the menus your role opens.
+   Pharmacy, Reports, Management, Masters, Administration. You see only the menus your role opens.
 4. <span class="n">4</span> **Reminders**: what needs doing, e.g. critical results not verified, samples
    waiting, discharges without a summary, blood bags about to expire, medicines at the reorder level.
    Click a line to go to it. Each role sees the reminders of its own work.
@@ -81,7 +81,7 @@ The line at the bottom of every page gives the release of Hospora ERP (e.g. *Hos
 
 | Role | Menus |
 |---|---|
-| Administrator | everything, with Masters and Administration |
+| Administrator | everything, with Management, Masters and Administration |
 | Reception | Registration, Appointments, Finance |
 | Operator | Registration, Appointments, Clinical, Finance, Investigation, Pharmacy, Reports |
 | Accountant | Finance, Reports |

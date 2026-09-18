@@ -42,7 +42,8 @@ same numbers appear in the steps below each picture. Click a picture to see it f
 | [Investigation](investigation/index.md) | Lab orders, samples, results, X-ray and ultrasound reports |
 | [Pharmacy](pharmacy/index.md) | Medicine bills and returns, stock, purchase orders and entries |
 | [Reports](reports/index.md) | The registers and summaries, and how to print or download them |
+| [Management](management/index.md) | For administrators: the key figures, revenue, occupancy, lab turnaround, payer mix, and reports mailed on a schedule |
 | [Masters](masters/index.md) | Units, doctors, the tariff, wards, medicines and report formats |
-| [Administration](administration/index.md) | Users and roles, hospital details, taxes, message templates |
+| [Administration](administration/index.md) | Users and roles, hospital details, taxes, logs |
 | [Workflows](workflows/index.md) | Whole journeys from start to end: an O.P.D. visit, an admission to discharge, a lab test, a cashless claim |
 | [FAQ](faq.md) | Common questions and problems |
