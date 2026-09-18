@@ -40,7 +40,7 @@ theme:
     - content.action.edit
 
 extra_css:
-  - assets/extra.css
+  - assets/guide.css
 
 plugins:
   - search
