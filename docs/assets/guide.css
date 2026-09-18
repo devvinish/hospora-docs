@@ -35,50 +35,6 @@
   height: auto;
 }
 
-/* the sections of the open page look like the entries of the menu: no line beside them, one step in */
-[dir] .md-nav--integrated .md-nav__item--active .md-nav--secondary,
-.md-nav--primary .md-nav--secondary {
-  border-left: 0 !important;
-  margin-left: 0;
-}
-.md-nav--primary .md-nav--secondary .md-nav__list {
-  padding-left: .6rem;
-}
-.md-nav--primary .md-nav--secondary .md-nav__link {
-  color: var(--md-default-fg-color--light);
-}
-.md-nav--primary .md-nav--secondary .md-nav__link:hover,
-.md-nav--primary .md-nav--secondary .md-nav__link--active {
-  color: var(--md-accent-fg-color);
-}
-
-/* the sections of every page, listed under it in the left menu (nav-sections.js); no right sidebar */
-.md-sidebar--secondary {
-  display: none !important;
-}
-.guide-sections .md-nav__list {
-  padding-left: .6rem;
-}
-.guide-sections .md-nav__link {
-  margin-top: .35em;
-  color: var(--md-default-fg-color--light);
-  font-size: .95em;
-}
-.guide-sections .md-nav__link:hover {
-  color: var(--md-accent-fg-color);
-}
-/* always shown, under the open page as well (the theme hides lists there on wide screens) */
-.md-nav--primary .guide-sections {
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  height: auto !important;
-  max-height: none !important;
-}
-.md-nav--primary .md-nav__item--active > .md-nav--secondary {
-  display: none;
-}
-
 /* on a wide screen the whole menu stays open: no arrows to fold a chapter away */
 @media screen and (min-width: 76.25em) {
   .md-nav--primary .md-nav__icon {
@@ -104,5 +60,14 @@
 .md-tabs__item--active .md-tabs__link,
 .md-tabs__link:hover {
   opacity: 1;
+  font-weight: 700;
+}
+
+/* the sections of the page on the right, the one being read highlighted as the page scrolls */
+.md-nav--secondary .md-nav__title {
+  font-weight: 700;
+}
+.md-nav--secondary .md-nav__link--active {
+  color: var(--md-accent-fg-color);
   font-weight: 700;
 }

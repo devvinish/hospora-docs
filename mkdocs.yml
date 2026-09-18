@@ -43,11 +43,7 @@ theme:
 extra_css:
   - assets/guide.css
 
-extra_javascript:
-  - assets/nav-sections.js
 
-hooks:
-  - hooks.py
 
 plugins:
   - search
