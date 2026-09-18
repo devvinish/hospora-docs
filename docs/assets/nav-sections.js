@@ -40,7 +40,13 @@
       var key = url.pathname.substring(base.pathname.length);
       var items = map[key];
       if (items && items.length) {
-        li.appendChild(list(items, url.pathname));
+        // right under its own entry: the first page of a chapter carries the chapter's title
+        var after = a.closest('.md-nav__container') || a;
+        if (after.parentElement === li) {
+          after.insertAdjacentElement('afterend', list(items, url.pathname));
+        } else {
+          li.appendChild(list(items, url.pathname));
+        }
       }
     });
   }
