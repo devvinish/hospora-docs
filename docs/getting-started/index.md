@@ -8,6 +8,7 @@
       and panels;
     - roles: what an administrator, a receptionist, a billing clerk, a pharmacist, the laboratory, a nurse
       and a doctor each see;
-    - the settings to make once: hospital details and GSTIN, the UPI ID for QR payments, taxes, units and
-      doctors, doctor schedules, the tariff, wards, pay modes, packages and message templates;
+    - the settings to make once: hospital details and GSTIN, the default district and state of new
+      patients, the UPI ID for QR payments, taxes, units and doctors, doctor schedules, the tariff, wards,
+      pay modes, packages and message templates;
     - installing Hospora ERP on Oracle APEX (for the person who sets it up).

@@ -43,7 +43,8 @@ Fill in:
 - **Patient Name**, **Age**, **Age In** (years, months or days) and **Sex** (required);
 - **Relation** (S/O, D/O, W/O ...) and **Father / Husband / Guardian**;
 - **House No.**, **Area**, **Village / Post**, **District** and **State**. District and State start with the
-  hospital's own.
+  defaults set in **Administration > Hospital Details** (e.g. New Delhi, DL). Without them, they start with
+  the place of the patient registered last.
 
 !!! tip "Duplicate check"
     When the name and the guardian are filled in, a warning appears next to the name if a patient with

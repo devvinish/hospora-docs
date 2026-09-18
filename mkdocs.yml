@@ -28,8 +28,6 @@ theme:
         icon: material/weather-sunny
         name: Light mode
   features:
-    - navigation.tabs
-    - navigation.sections
     - navigation.indexes
     - navigation.top
     - navigation.footer

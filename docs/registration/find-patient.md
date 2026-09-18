@@ -11,7 +11,7 @@ typing the patient again.
 1. In <span class="n">1</span> **Mobile No., Name, C.R. No. or I.P. No.**, type any of these:
     - a mobile number, e.g. `9876543203`;
     - a part of the name, e.g. `sharma`;
-    - a C.R. No., e.g. `84497/26` (or just `84497`);
+    - a C.R. No., e.g. `84611/26` (or just `84611`);
     - the I.P. No. of an admitted patient.
 2. Press ++enter++ or click **Search**.
 3. The patients found appear in <span class="n">2</span> **Patients**. Patients of one family (the same
