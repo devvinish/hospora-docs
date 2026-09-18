@@ -26,7 +26,8 @@ user is locked. Ask the administrator to unlock it.
     - several found (a family, a common name): [Find Patient](../registration/find-patient.md) opens with
       the list.
 
-    Next to it: today's date, your **role**, your **cash counter**, and your user menu.
+    Next to it: today's date, your **role**, your **cash counter**, **Help** (opens this guide in a new
+    tab) and your user menu.
 3. <span class="n">3</span> **The menu bar**: Registration, Appointments, Clinical, Finance, Investigation,
    Pharmacy, Reports, Masters, Administration. You see only the menus your role opens.
 4. <span class="n">4</span> **Reminders**: what needs doing, e.g. critical results not verified, samples
