@@ -65,6 +65,8 @@ nav:
   - Home: index.md
   - Getting Started:
       - getting-started/index.md
+      - First-time Setup: getting-started/setup.md
+      - Installation: getting-started/install.md
   - Registration:
       - registration/index.md
       - Find Patient: registration/find-patient.md
@@ -75,13 +77,53 @@ nav:
       - Patient History: registration/patient-history.md
       - Prescriptions: registration/prescriptions.md
       - Certificates: registration/certificates.md
-  - Appointments: appointments/index.md
-  - Clinical: clinical/index.md
-  - Finance: finance/index.md
-  - Investigation: investigation/index.md
-  - Pharmacy: pharmacy/index.md
-  - Reports: reports/index.md
-  - Masters: masters/index.md
-  - Administration: administration/index.md
+  - Appointments:
+      - appointments/index.md
+      - Book Appointment: appointments/book.md
+      - Doctor Schedules and Leave: appointments/schedules.md
+  - Clinical:
+      - clinical/index.md
+      - Consultations and Clinical Record: clinical/consultations.md
+      - In the Wards: clinical/inpatient.md
+      - Operations and Casualty: clinical/operations.md
+      - Blood Bank: clinical/blood-bank.md
+      - Mother and Child: clinical/mother-child.md
+      - Consents and Forms: clinical/forms.md
+  - Finance:
+      - finance/index.md
+      - Bills: finance/bills.md
+      - In-Patient Billing and Dues: finance/inpatient-billing.md
+      - The End of the Day: finance/day-end.md
+      - Insurance and Packages: finance/insurance.md
+      - Doctor and Referral Shares: finance/shares.md
+      - Rates and Discounts: finance/rates.md
+      - GST and the Accounts: finance/gst-accounts.md
+  - Investigation:
+      - investigation/index.md
+      - The Laboratory: investigation/laboratory.md
+      - X-Ray and Ultrasound: investigation/radiology.md
+      - Laboratory Settings: investigation/lab-settings.md
+  - Pharmacy:
+      - pharmacy/index.md
+      - Selling Medicines: pharmacy/selling.md
+      - Medicines and Stock: pharmacy/stock.md
+      - Buying Medicines: pharmacy/buying.md
+  - Reports:
+      - reports/index.md
+      - Registration and Admission: reports/registration.md
+      - Money: reports/finance.md
+      - Pharmacy: reports/pharmacy.md
+      - Clinical: reports/clinical.md
+  - Masters:
+      - masters/index.md
+      - Hospital and Tariff: masters/tariff.md
+      - Pharmacy Lists: masters/pharmacy.md
+      - Report Formats: masters/formats.md
+      - Clinical Lists: masters/clinical.md
+  - Administration:
+      - administration/index.md
+      - Users and Roles: administration/users.md
+      - Hospital Settings: administration/settings.md
+      - Logs: administration/logs.md
   - Workflows: workflows/index.md
   - FAQ: faq.md

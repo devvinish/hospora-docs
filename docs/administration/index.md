@@ -1,20 +1,16 @@
 # Administration
 
-Users and their roles, the hospital details printed on every document, taxes, message templates and the logs.
+The **Administration** menu is for the administrator. It holds:
 
-!!! info "This chapter is being written"
-    The steps and screenshots of this chapter follow the Registration chapter. It will cover these
-    options of the **Administration** menu:
+- the users, their roles and what each role may open;
+- the hospital's details, printed on every document;
+- the taxes of the bills, and the words of the WhatsApp messages;
+- the logs of sign-ins, errors and messages.
 
-- Application Users
-- Roles
-- Login History
-- Error Log
-- Hospital Details
-- Taxes
-- Message Templates
-- Purchase Order Settings
-- Legacy Users (D_USER)
-- Legacy Menu Rights
-- Announcements
-- Messages Sent
+![The Administration menu](../assets/screens/masters/menu-admin.png)
+
+| Page | Options |
+|---|---|
+| [Users and Roles](users.md) | Application Users, Roles, Change Password, Login History |
+| [Hospital Settings](settings.md) | Hospital Details, Taxes, Message Templates, Purchase Order Settings, Announcements |
+| [Logs](logs.md) | Messages Sent, Error Log, Legacy Users (D_USER), Legacy Menu Rights |
