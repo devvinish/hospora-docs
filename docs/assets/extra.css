@@ -36,9 +36,9 @@
 }
 
 /* the sections of the open page look like the entries of the menu: no line beside them, one step in */
-.md-nav--integrated > .md-nav__list > .md-nav__item--active .md-nav--secondary,
+[dir] .md-nav--integrated .md-nav__item--active .md-nav--secondary,
 .md-nav--primary .md-nav--secondary {
-  border-left: 0;
+  border-left: 0 !important;
   margin-left: 0;
 }
 .md-nav--primary .md-nav--secondary .md-nav__list {
