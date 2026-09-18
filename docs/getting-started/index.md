@@ -7,8 +7,15 @@ Firefox, Safari) on a computer, a tablet or a phone.
 
 ![The sign-in page](../assets/screens/start/login.png)
 
-1. Type your **username** and **password**.
+The left half shows your hospital (from **Administration > Hospital Details**) and what Hospora ERP
+covers. The sign-in form is on the right:
+
+1. Type your **username** and **password**. The eye button shows the password as you type.
 2. Click **Sign In**.
+
+On a phone, the hospital is shown above the form:
+
+![The sign-in page on a phone](../assets/screens/start/login-phone.png){ width="300" }
 
 The first time, or after the administrator has reset your password, you are asked to choose your own
 password ([Change Password](../administration/users.md#change-password)). After 5 wrong passwords the
@@ -49,6 +56,8 @@ Click your name at the top right:
 
 - **Change Password**;
 - **Sign Out**. Always sign out on a shared computer.
+
+The line at the bottom of every page gives the release of Hospora ERP (e.g. *Hospora ERP 2026.09*).
 
 ## How the screens work
 
