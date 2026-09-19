@@ -2,12 +2,12 @@
 
 ## Sign in
 
-Open the address of Hospora ERP that your administrator gave you, in any web browser (Chrome, Edge,
+Open the address of Rounds HMS that your administrator gave you, in any web browser (Chrome, Edge,
 Firefox, Safari) on a computer, a tablet or a phone.
 
 ![The sign-in page](../assets/screens/start/login.png)
 
-The left half shows your hospital (from **Administration > Hospital Details**) and what Hospora ERP
+The left half shows your hospital (from **Administration > Hospital Details**) and what Rounds HMS
 covers. The sign-in form is on the right:
 
 1. Type your **username** and **password**. The eye button shows the password as you type.
@@ -25,7 +25,7 @@ user is locked. Ask the administrator to unlock it.
 
 ![The Home page](../assets/screens/start/home-full.png)
 
-1. <span class="n">1</span> **The header**: the Hospora ERP logo (click it to come back Home), and the name
+1. <span class="n">1</span> **The header**: the Rounds HMS logo (click it to come back Home), and the name
    and address of the hospital.
 2. <span class="n">2</span> **Search patient**: type a mobile number, a name, a C.R. No. or an I.P. No. and
    press ++enter++, from any page:
@@ -57,7 +57,7 @@ Click your name at the top right:
 - **Change Password**;
 - **Sign Out**. Always sign out on a shared computer.
 
-The line at the bottom of every page gives the release of Hospora ERP (e.g. *Hospora ERP 2026.09*).
+The line at the bottom of every page gives the release of Rounds HMS (e.g. *Rounds HMS 2026.09*).
 
 ## How the screens work
 
@@ -96,4 +96,4 @@ These are the roles supplied. The administrator can change them in
 ## Next
 
 - [First-time Setup](setup.md): what to fill in before the first patient.
-- [Installation](install.md): for the person who installs Hospora ERP.
+- [Installation](install.md): for the person who installs Rounds HMS.

@@ -5,7 +5,7 @@ Many hospitals pay a share of what they bill:
 - to their **doctors**, e.g. 10% of the operations of a surgeon;
 - to the clinics and doctors who **refer** patients, e.g. 5% of what the referred patient is billed.
 
-Hospora ERP works these shares out from the bills and records what is paid.
+Rounds HMS works these shares out from the bills and records what is paid.
 
 ## Referrers
 

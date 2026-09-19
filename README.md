@@ -1,10 +1,10 @@
-# Hospora ERP - User Guide
+# Rounds HMS - User Guide
 
-The step-by-step user guide of **Hospora ERP**, a hospital management system built on Oracle APEX:
+The step-by-step user guide of **Rounds HMS**, a hospital management system built on Oracle APEX:
 registration, appointments, the clinical record, billing and insurance, the laboratory and radiology, the
 pharmacy, reports and administration.
 
-**Read it at https://devvinish.github.io/hospora-docs/**
+**Read it at https://devvinish.github.io/rounds-docs/**
 
 Every name, mobile number, amount and record in the screenshots is invented: they come from a
 demonstration copy of the application with made-up data.

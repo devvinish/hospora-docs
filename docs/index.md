@@ -1,6 +1,6 @@
-# Hospora ERP - User Guide
+# Rounds HMS - User Guide
 
-Hospora ERP runs the day of a hospital in one place. It covers:
+Rounds HMS runs the day of a hospital in one place. It covers:
 
 - the registration desk and the wards;
 - appointments and the doctor's clinical record;
@@ -11,7 +11,7 @@ Hospora ERP runs the day of a hospital in one place. It covers:
 
 It runs in a web browser, on a computer, a tablet or a phone.
 
-![The Home page of Hospora ERP](assets/screens/home/home.png)
+![The Home page of Rounds HMS](assets/screens/home/home.png)
 
 ## How to read this guide
 
@@ -26,7 +26,7 @@ The screenshots carry orange numbers such as <span class="n">1</span> <span clas
 same numbers appear in the steps below each picture. Click a picture to see it full size.
 
 !!! note "The data in the pictures is invented"
-    The screenshots come from a demonstration copy of Hospora ERP with invented data. Every patient,
+    The screenshots come from a demonstration copy of Rounds HMS with invented data. Every patient,
     doctor, mobile number, payment reference and amount in them is made up. Names that look real are
     only common Indian names.
 

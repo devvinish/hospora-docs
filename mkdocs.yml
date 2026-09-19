@@ -1,10 +1,10 @@
-site_name: Hospora ERP - User Guide
-site_description: Step-by-step guide to Hospora ERP, a hospital management system built on Oracle APEX.
-site_url: https://devvinish.github.io/hospora-docs/
-repo_url: https://github.com/devvinish/hospora-docs
-repo_name: hospora-docs
+site_name: Rounds HMS - User Guide
+site_description: Step-by-step guide to Rounds HMS, a hospital management system built on Oracle APEX.
+site_url: https://devvinish.github.io/rounds-docs/
+repo_url: https://github.com/devvinish/rounds-docs
+repo_name: rounds-docs
 edit_uri: edit/main/docs/
-copyright: Hospora ERP - Hospital Management System. Every name, number and record in the pictures is invented.
+copyright: Rounds HMS. Every name, number and record in the pictures is invented.
 
 theme:
   name: material

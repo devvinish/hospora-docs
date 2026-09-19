@@ -11,7 +11,7 @@ application.
 ## Legacy Users and Menu Rights
 
 **Administration > Legacy Users (D_USER)** and **Legacy Menu Rights** are the users and rights of the old
-hospital system, from before Hospora ERP. They are kept so that old bills still show who made them, and so
+hospital system, from before Rounds HMS. They are kept so that old bills still show who made them, and so
 that a user can be linked to their old name ([Application Users](users.md#application-users), **Legacy
 User**). New users and rights are set in **Application Users** and **Roles**.
 

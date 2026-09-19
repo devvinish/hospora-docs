@@ -11,7 +11,7 @@ The **Stage** of each order says what comes next, and the actions of the row do 
 
 | Stage | Action | What it does |
 |---|---|---|
-| To collect | **Collect** | the samples are taken: one tube for each kind of specimen, each with its sample number (e.g. L26-00489) |
+| To collect | **Collect** | the samples are taken: one tube for each kind of specimen, each with its sample number (e.g. L26-00563) |
 | Collected | **Received in the lab** | the tubes have reached the laboratory |
 | In the lab | **Results** | enter the results |
 | To verify | **Verify** | a pathologist checks and releases the report |
@@ -98,7 +98,7 @@ and, if you like, **Only this Test**, then **Show**.
 
 ## Analyser messages
 
-Analysers can send their results straight into Hospora ERP, with no typing. They send them as HL7 or ASTM
+Analysers can send their results straight into Rounds HMS, with no typing. They send them as HL7 or ASTM
 messages, to the web address shown on **Investigation > Analyser Messages**, with the sample number of
 the tube.
 

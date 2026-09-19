@@ -33,7 +33,7 @@ Doctor. Change them to fit the hospital, or add your own.
 ![The users](../assets/screens/masters/users.png)
 
 !!! info "Set-up mode"
-    Until an administrator has a Hospora password, the workspace (APEX) accounts can still sign in, so that
+    Until an administrator has a Rounds password, the workspace (APEX) accounts can still sign in, so that
     nobody is locked out while setting up. Give yourself a user with the **Administrator** role and a
     password. From then on, only the users of this list can sign in.
 
